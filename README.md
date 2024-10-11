@@ -1,4 +1,4 @@
 # githubmanish-demo
 This is my first git Repository.
 <br>
-Author - Manish kumar 
+Author - Manish kumar (yadav)
